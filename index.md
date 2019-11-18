@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+<center class="half">
+    <img src="https://www.google.com.hk/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" style="CURSOR: hand" width="100" οnclick='window.open("http://www.google.com")' /><img src="https://www.google.com.hk/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" style="CURSOR: hand" width="100" οnclick='window.open("http://www.google.com")'/><img src="https://www.google.com.hk/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" style="CURSOR: hand" width="100" οnclick='window.open("http://www.google.com")'/>
+</center>
+
 You can use the [editor on GitHub](https://github.com/wnma3mz/bookmark.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
